@@ -78,6 +78,11 @@ p {
 	padding: 0px;
 	margin-top: 0px;
 	margin-right: 0px;
-	margin-bottom: 20px;
+	margin-bottom: 3mm;
 	margin-left: 0px;
+	line-height: 1.5mm;
+}
+.unodoc p {
+	margin: 0px;
+	padding-top: 0px;
 }
