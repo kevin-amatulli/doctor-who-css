@@ -12,12 +12,18 @@
 
 <body>
 <div class="wrapper"><img src="../images/banner.jpg" width="950" height="150" />
- <ul class="nav">
- <li><a href="#">Home</a>
- <li><a href="#">The Doctors</a>
- <li><a href="#">Video</a>
- <li><a href="#">About me</a>
- </ul>
+  <ul class="nav">
+    <li><a href="#">Home</a>
+    <li><a href="#">The Doctors</a>
+    <li><a href="../video.html">Video</a>
+    <li><a href="#">About me</a>
+  </ul>
+  <div class="content">
+    <h1> The Doctor Who Compendium</h1>
+    <div class="main"><!-- TemplateBeginEditable name="Content" -->
+      <p> This is a place holder</p>
+    <!-- TemplateEndEditable --></div>
+  </div>
 </div>
 </body>
 </html>
