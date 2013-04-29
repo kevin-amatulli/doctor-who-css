@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>Untitled Document</title>
+<title>The Doctor Who Compendium</title>
 <!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
@@ -13,7 +13,7 @@
 <body>
 <div class="wrapper"><img src="../images/banner.jpg" width="950" height="150" />
   <ul class="nav">
-    <li><a href="#">Home</a>
+    <li><a href="../index.html">Home</a>
     <li><a href="#">The Doctors</a>
     <li><a href="../video.html">Video</a>
     <li><a href="#">About me</a>
